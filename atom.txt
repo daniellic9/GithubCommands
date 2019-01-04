@@ -1,0 +1,7 @@
+Atom editor can be used with github.
+Download: https://atom.io/
+Settings and tutorial: https://flight-manual.atom.io/getting-started/sections/atom-basics/#opening-modifying-and-saving-files
+You can Download in Windows by chocolatey.
+Chocolatey for Windows: https://chocolatey.org/
+
+There are others editors that you can use too.
