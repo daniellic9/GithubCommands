@@ -2,7 +2,7 @@
 Just like a github library.
 
 # Basic Unix-like commands
-pwd - print work directory, Unix-like os command, shows the full pathname of the current work directory
+`pwd - print work directory, Unix-like os command, shows the full pathname of the current work directory`
 
 `ls - list, Unix-like command, list computer files in the current working directory`
 
