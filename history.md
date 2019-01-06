@@ -1,3 +1,5 @@
+# History of the Project
+
 Here we can find some commands that can help with the history of the project.
 
 `git log - with this command you can see the commit history of the project`
