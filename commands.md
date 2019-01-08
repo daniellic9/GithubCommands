@@ -25,3 +25,9 @@ For just save your name and email for all repositories, you can do:
 `git mv *name_file* *new_name_file* - this will rename the file`
 
 `git rm *name_file* - will delete the file`
+
+`touch *name_file* - create a empty file`
+
+`git diff --staged - you can see the changes in the added files before commit them.`
+
+You can see each commit chages using the hash code in the place of the flag --staged. Anothes flags can be used like HEAD^ and *hash_code^* or *hash_code..hash_code*
