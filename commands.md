@@ -21,3 +21,7 @@ For just save your name and email for all repositories, you can do:
 `git add . - add the changes to the track stage, that means that you are ready for commit.`
 
 `git commit -m "*commit_name*" - just commit all of the add changes.`
+
+`git mv *name_file* *new_name_file* - this will rename the file`
+
+`git rm *name_file* - will delete the file`
