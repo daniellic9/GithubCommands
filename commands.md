@@ -31,3 +31,11 @@ For just save your name and email for all repositories, you can do:
 `git diff --staged - you can see the changes in the added files before commit them.`
 
 You can see each commit chages using the hash code in the place of the flag --staged. Anothes flags can be used like HEAD^ and *hash_code^* or *hash_code..hash_code*
+
+`git commit --amend - change the commit message with vi, and you can use to update the commit with new changes`
+
+To edit in vi, use the i key to start editing, and esc and enter, :wq to quit.
+
+To change the editor you can use
+
+`git config core.editor "name_editor --wait"`
