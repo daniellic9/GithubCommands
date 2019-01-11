@@ -39,3 +39,5 @@ To edit in vi, use the i key to start editing, and esc and enter, :wq to quit.
 To change the editor you can use
 
 `git config core.editor "name_editor --wait"`
+
+`git reset HEAD *name_file* - this command unstage the file`
