@@ -45,3 +45,5 @@ To change the editor you can use
 `git checkout -- *name_file* - this command change the file before commit to the previous state`
 
 `git reset HEAD --hard - unstage all the files to the previous commit`
+
+If you add the ^ after HEAD you discard the last commit and change back to commit before
