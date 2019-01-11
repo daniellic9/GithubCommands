@@ -40,4 +40,8 @@ To change the editor you can use
 
 `git config core.editor "name_editor --wait"`
 
-`git reset HEAD *name_file* - this command unstage the file`
+`git reset HEAD *name_file* - this command unstage the file so you can change the file again`
+
+`git checkout -- *name_file* - this command change the file before commit to the previous state`
+
+`git reset HEAD --hard - unstage all the files to the previous commit`
