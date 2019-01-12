@@ -1,3 +1,5 @@
+# Branch Commands
+
 `git branch *branch_name* - command to create a branch`
 
 `git checkout *branch_name* - command to change the HEAD to the branch`
