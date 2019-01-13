@@ -17,3 +17,7 @@ You can change the HEAD to the master writing `git checkout master`
 `git rebase master -  this to the reabse to the master`
 
 Note - after rebase you have to do checkout and merge commands
+
+`git reset *commit_hash* --hard - this put HEAD in the *commit_hash* commit`
+
+
