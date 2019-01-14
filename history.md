@@ -26,3 +26,9 @@ Others flags can be found typing `git help log`.
 `git checkout *hash_code* - you can see how the code base was like in the commit of the *hash_code*`
 
 `git checkout master -  you return to the current state of the repository`
+
+`git tag version-*version_number* - create a tag of version in the commit history`
+
+`git tag - shows the list of tags created`
+
+You can do git checkout with the version tag 
