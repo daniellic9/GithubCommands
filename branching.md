@@ -20,4 +20,4 @@ Note - after rebase you have to do checkout and merge commands
 
 `git reset *commit_hash* --hard - this put HEAD in the *commit_hash* commit`
 
-
+`git rebase -i master - shows a editable list of the commits to be rebase into master`
