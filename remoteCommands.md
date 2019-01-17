@@ -12,3 +12,7 @@ Or you can clone by the html
 `git clone *url_copied*`
 
 `git remote add origin *ssh_key*`
+
+`git pull`
+
+`git push -u origin master`
