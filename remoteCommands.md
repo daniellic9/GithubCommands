@@ -10,3 +10,5 @@ To clone a repository using ssh you should see this github help.
 Or you can clone by the html
 
 `git clone *url_copied*`
+
+`git remote add origin *ssh_key*`
